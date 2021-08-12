@@ -1,6 +1,5 @@
-### Hi there 👋
-<p style="width:20%" align="center">
-  <img src="https://66.media.tumblr.com/a5f012a2bc5a5f612c592a71c09713a3/tumblr_mrnj1lGkXQ1rfjowdo1_500.gif" alt="Gif">
+<p align="center">
+  <img width="200" src="https://66.media.tumblr.com/a5f012a2bc5a5f612c592a71c09713a3/tumblr_mrnj1lGkXQ1rfjowdo1_500.gif" alt="Gif">
 </p>
 
 ## Hello! my name is João Artur, I'm a FullStack Developer from Brazil
