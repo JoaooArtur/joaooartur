@@ -1,5 +1,5 @@
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-artur-ramos-belli-4a4076201/
-[gmail]: joao.arturramosbelli@gmail.com
+[gmail]: mailto:joao.arturramosbelli@gmail.com?subject=GitHub
 
 <p align="center">
   <img width="300" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Gif">
