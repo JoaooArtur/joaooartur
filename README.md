@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning about the best practices for developing
 - 👯 I’m looking to collaborate on Fullstack Development
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/joaooartur)
+[![Spotify](https://joaooartur.vercel.app/)](https://open.spotify.com/user/joaooartur)
