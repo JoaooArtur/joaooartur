@@ -2,7 +2,7 @@
 [gmail]: joao.arturramosbelli@gmail.com
 
 <p align="center">
-  <img width="200" src="https://i.pinimg.com/originals/eb/c2/7c/ebc27c80db850034ea426ebefff35c94.gif" alt="Gif">
+  <img width="300" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Gif">
 </p>
 
 ## Hello! my name is João Artur, I'm a FullStack Developer from Brazil
