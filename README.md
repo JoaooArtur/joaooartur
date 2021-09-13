@@ -1,3 +1,6 @@
+[linkedin]: https://www.linkedin.com/in/jo%C3%A3o-artur-ramos-belli-4a4076201/
+[gmail]: joao.arturramosbelli@gmail.com
+
 <p align="center">
   <img width="200" src="https://i.pinimg.com/originals/eb/c2/7c/ebc27c80db850034ea426ebefff35c94.gif" alt="Gif">
 </p>
@@ -10,6 +13,12 @@
 - 🏢 I’m currently working on Fulltech Pro
 - 📚 I’m currently learning about the best practices for developing
 - 💻 I’m looking to collaborate on Fullstack Development
+
+## Connect with me ✉
+
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
+</br>
 
 ## Listening in Spotify 🎧
 
