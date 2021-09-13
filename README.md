@@ -8,5 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustambosi&layout=compact&theme=dark&langs_count=10&hide_border=true&bg_color=161b22)
 
 - 🔭 I’m currently working on Fulltech Pro
-- 🌱 I’m currently learning abou the best practices for developing
+- 🌱 I’m currently learning about the best practices for developing
 - 👯 I’m looking to collaborate on Fullstack Development
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
