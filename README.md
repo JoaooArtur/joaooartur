@@ -5,7 +5,7 @@
   <img width="300" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Gif">
 </p>
 
-## Hello! my name is João Artur, I'm a FullStack Developer from Brazil <img width="30px" src="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-max-1mb.gif" />
+## Hello! my name is João Artur, I'm a FullStack Developer from Brazil
 
 ![JoaooArtur's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaooartur&show_icons=true&theme=dark&hide_border=true&bg_color=161b22)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustambosi&layout=compact&theme=dark&langs_count=10&hide_border=true&bg_color=161b22)
