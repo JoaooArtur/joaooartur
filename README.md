@@ -10,7 +10,7 @@
 ![JoaooArtur's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaooartur&show_icons=true&theme=dark&hide_border=true&bg_color=161b22)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustambosi&layout=compact&theme=dark&langs_count=10&hide_border=true&bg_color=161b22)
 
-- 🏢 I’m currently working on Martinelli Labs
+- 🏢 I’m currently working on Twila.Digital
 - 📚 I’m currently learning about the best practices for developing
 - 💻 I’m looking to collaborate on Fullstack Development
 
